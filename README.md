@@ -1,6 +1,6 @@
 # Reto de 30 días de JavaScript
 
-¡Hola! Mi nombre es [tu nombre] y soy un apasionado de la programación web. Me he propuesto completar el reto de 30 días de JavaScript de Asabeneh, que consiste en aprender y aplicar los conceptos básicos y avanzados de este lenguaje en diferentes proyectos.
+¡Hola! Mi nombre es Daniel y soy un apasionado de la programación web. Me he propuesto completar el reto de 30 días de JavaScript de Asabeneh, que consiste en aprender y aplicar los conceptos básicos y avanzados de este lenguaje en diferentes proyectos.
 
 Estoy muy contento de realizar este reto, ya que me permite mejorar mis conocimientos y desarrollar mi creatividad. También me ayuda a conocer el trabajo de otros participantes y aprender de sus soluciones.
 
