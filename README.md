@@ -7,7 +7,3 @@ Estoy muy contento de realizar este reto, ya que me permite mejorar mis conocimi
 Estoy entusiasmado por terminar este reto y ver todo lo que puedo lograr con JavaScript. Me gustaría compartir mi progreso y mis proyectos con la comunidad. Aquí puedes ver algunos de los ejemplos que he hecho hasta ahora:
 
 ![A logo of JavaScript](./bro.jpg)
-
-## Día 1: Introducción a JavaScript
-
-En este día aprendí sobre los tipos de datos, las variables, los operadores, los comentarios y las consolas en JavaScript. También hice algunos ejercicios para practicar lo que aprendí.
